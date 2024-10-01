@@ -1,0 +1,45 @@
+body{
+    padding: 20px;
+    text-align:center;
+    background-color: aqua;
+
+
+}
+
+.product-card{
+    border:1px solid #ccc;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.product-grid{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    
+
+
+}
+
+.product-card button{
+    margin-top:10px;
+    padding:10px 20px;
+    background-color:pink;
+    color:black;
+}
+
+ .product-card button:hover{
+    background-color: #555;
+ }
+
+ .product-card img{
+    height: 300px;
+    width:300px;
+ }
+
+
+
+
+

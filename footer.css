@@ -1,0 +1,14 @@
+footer{
+    background-color: pink;
+    font:bolder;
+    color:lightseagreen;
+    display:flex;
+     text-align: center;
+     padding:20px;
+     justify-content:center;
+
+
+    
+
+
+}
